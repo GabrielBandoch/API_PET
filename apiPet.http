@@ -1,0 +1,30 @@
+GET http://localhost:8000/pet HTTP/1.1
+Content-Type: application/json
+###
+
+GET http://localhost:8000/pet/search?nome_pet=Dogão HTTP/1.1
+Content-Type: application/json
+###
+
+POST http://localhost:8000/pet HTTP/1.1
+Content-Type: application/json
+
+{
+    "codigo_pet": "NULL",
+    "nome_pet": "Dogão",
+    "genero_pet": "Feminino"
+}
+###
+
+PUT http://localhost:8000/pet/4 HTTP/1.1
+Content-Type: application/json
+
+{
+    "nome_pet": "Teste",
+    "genero_pet": "feminino"
+}
+###
+
+DELETE http://localhost:8000/pet/2 HTTP/1.1
+Content-Type: application/json
+###
