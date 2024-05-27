@@ -6,7 +6,7 @@ Este projeto consiste em uma API desenvolvida em Node.js para realizar operaçõ
 
 ## Banco de dados
 
-![Banco de Dados](https://github.com/GabrielBandoch/API_PET/Imagens/BD.png)
+![Banco de Dados](https://github.com/GabrielBandoch/API_PET/blob/main/Imagens/BD.png)
 
 ## Estrutura do Projeto
 
@@ -34,16 +34,16 @@ Durante o desenvolvimento desta API, aprendi a:
 Aqui estão algumas imagens das requisições realizadas para testar a API:
 
 ### Requisição GET
-![GET Request](https://github.com/GabrielBandoch/API_PET/Imagens/GET.png)
+![GET Request](https://github.com/GabrielBandoch/API_PET/blob/main/Imagens/GET.png)
 
 ### Requisição POST
-![POST Request](https://github.com/GabrielBandoch/API_PET/Imagens/POST.png)
+![POST Request](https://github.com/GabrielBandoch/API_PET/blob/main/Imagens/POST.png)
 
 ### Requisição PUT
-![PUT Request](https://github.com/GabrielBandoch/API_PET/Imagens/UPDATE.png)
+![PUT Request](https://github.com/GabrielBandoch/API_PET/blob/main/Imagens/UPDATE.png)
 
 ### Requisição DELETE
-![DELETE Request](https://github.com/GabrielBandoch/API_PET/Imagens/DELETE.png)
+![DELETE Request](https://github.com/GabrielBandoch/API_PET/blob/main/Imagens/DELETE.png)
 
 ### Busca por Nome
-![Busca por Nome](https://github.com/GabrielBandoch/API_PET/Imagens/Busca_Nome.png)
+![Busca por Nome](https://github.com/GabrielBandoch/API_PET/blob/main/Imagens/Busca_Nome.png)
